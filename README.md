@@ -1,12 +1,12 @@
-# Hi there, I'm DANGNIVO Stéfan (DGN-droid) 👋
+# Hi there, I'm DANGNIVO Stéfan (DGN-droid) 
 
-### 👨‍💻 Web Developer | UI Designer | Software Architect
+###  Web Developer | UI Designer | Software Architect
 
 I build thoughtful interfaces, scalable systems, and AI-powered digital experiences.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+###  Tech Stack & Tools
 
 **Languages & Frameworks:**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -22,7 +22,7 @@ I build thoughtful interfaces, scalable systems, and AI-powered digital experien
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DGN-droid&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" />
@@ -31,15 +31,15 @@ I build thoughtful interfaces, scalable systems, and AI-powered digital experien
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
-- 🤖 **[expert-ia-portfolio](https://github.com/DGN-droid/expert-ia-portfolio)** - AI-powered portfolio project.
-- 💼 **[logiciel-comptable](https://github.com/DGN-droid/logiciel-comptable)** - Accounting management application built with TypeScript.
-- 🎬 **[video-pipeline](https://github.com/DGN-droid/video-pipeline)** - Python-based video processing pipeline.
+-  **[expert-ia-portfolio](https://github.com/DGN-droid/expert-ia-portfolio)** - AI-powered portfolio project.
+-  **[logiciel-comptable](https://github.com/DGN-droid/logiciel-comptable)** - Accounting management application built with TypeScript.
+-  **[video-pipeline](https://github.com/DGN-droid/video-pipeline)** - Python-based video processing pipeline.
 
 ---
 
-### 📫 Connect with me
+###  Connect with me
 
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/carl-gilles-stefan-dangnivo-2703721a8/)
 [<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />](https://my-portfolio-six-livid-22.vercel.app/)
