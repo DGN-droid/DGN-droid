@@ -41,6 +41,6 @@ I build thoughtful interfaces, scalable systems, and AI-powered digital experien
 
 ###  Connect with me
 
-[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/carl-gilles-stefan-dangnivo-2703721a8/)
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/carl-gilles-stefan-dangnivo-2703721a8/](https://www.linkedin.com/in/cafu-gilles-stefan-dangnivo-2703772a8?utm_source=share_via&utm_content=profile&utm_medium=member_ios))
 [<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />](https://my-portfolio-six-livid-22.vercel.app/)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:gillesdgn@gmail.com)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](cafudang@gmail.com)
